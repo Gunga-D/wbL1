@@ -23,5 +23,5 @@ func main() {
 			intesection = append(intesection, value)
 		}
 	}
-	fmt.Println("Intersection", intesection)
+	fmt.Println("Intersection: ", intesection)
 }
